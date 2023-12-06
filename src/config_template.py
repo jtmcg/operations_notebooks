@@ -1,1 +1,2 @@
-github_pat = "unconfigured" # Create a GitHub Personal Access Token and add it here
+github_pat = "unconfigured" # Create a GitHub Personal Access Token and add it here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+jira_pat = "unconfigured" # Create a Jira Personal Access Token and add it here: https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
